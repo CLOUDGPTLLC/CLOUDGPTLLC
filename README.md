@@ -1,6 +1,19 @@
-# CloudGPT LLC
+<p align="center">
+  <img src="https://i.imgur.com/LePZCYe.png" alt="CloudGPT LLC Logo" width="400"/>
+</p>
 
-**Innovating at the Intersection of AI, ML, and Cloud Computing**
+<h1 align="center">CloudGPT LLC</h1>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Compliance-100%25-brightgreen.svg" alt="Compliance 100%"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Uptime-99.99%25-brightgreen.svg" alt="Uptime 99.99%"></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Certified-orange.svg" alt="AWS Certified"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure-Expert-blue.svg" alt="Azure Expert"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GCP-Qualified-brightgreen.svg" alt="GCP Qualified"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT"></a>
+</p>
+
+## Innovating at the Intersection of AI, ML, and Cloud Computing
 
 Welcome to **CloudGPT LLC**, where we harness the transformative power of Artificial Intelligence (AI) and Machine Learning (ML), integrated seamlessly with leading cloud platforms: Microsoft Azure, Google Cloud Platform (GCP), and Amazon Web Services (AWS). Our mission: to empower businesses to leapfrog into the future with cutting-edge, cloud-powered AI solutions.
 
